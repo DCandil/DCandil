@@ -39,5 +39,5 @@
 ## 📫 ¡Contáctame!
 
 - 💌 **Email:** [davidcf18@gmail.com](mailto:davidcf18@gmail.com)
-- 💼 **LinkedIn:** [david-candil]([https://linkedin.com/in/david-candil])
+- 💼 **LinkedIn:** [david-candil](https://linkedin.com/in/david-candil)
 
