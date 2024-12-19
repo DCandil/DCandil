@@ -1,6 +1,11 @@
 # 👋 ¡Hola! Soy David
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="GIF divertido" width="400"/>
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" 
+       alt="GIF divertido" 
+       width="400" 
+       style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+</p>
 
 ---
 
