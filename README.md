@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="GIF divertido" width="400"/>
+<img src="[https://tenor.com/view/coding-gif-18657810]" alt="GIF divertido" width="400"/>
 
 ---
 
@@ -41,6 +41,5 @@
 ## 📫 ¡Contáctame!
 
 - 💌 **Email:** [davidcf18@gmail.com](mailto:davidcf18@gmail.com)
-- 🐦 **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
-- 💼 **LinkedIn:** [tu-perfil](https://linkedin.com/in/tuusuario)
+- 💼 **LinkedIn:** [david-candil]([[https://linkedin.com/in/david-candil])
 - 🌐 **Portafolio:** [tuportafolio.com](https://tuportafolio.com)
