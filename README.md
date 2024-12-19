@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy David
+# 👋 ¡Hola! Soy David Candil
 
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" 
@@ -39,5 +39,5 @@
 ## 📫 ¡Contáctame!
 
 - 💌 **Email:** [davidcf18@gmail.com](mailto:davidcf18@gmail.com)
-- 💼 **LinkedIn:** [david-candil]([[https://linkedin.com/in/david-candil])
-- 🌐 **Portafolio:** [tuportafolio.com](https://tuportafolio.com)
+- 💼 **LinkedIn:** [david-candil]([https://linkedin.com/in/david-candil])
+
