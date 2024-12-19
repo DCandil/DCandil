@@ -22,12 +22,10 @@
 ## 🚀 Mis Proyectos Destacados
 
 ### 🌟 [Nombre del Proyecto 1](#)
-> Una breve descripción del proyecto.
-> Herramientas: `React`, `Node.js`.
+
 
 ### 🌟 [Nombre del Proyecto 2](#)
-> Una breve descripción del proyecto.
-> Herramientas: `Python`, `Django`.
+
 
 ---
 
