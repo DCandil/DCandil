@@ -24,7 +24,7 @@
 ### 🌟 [Nombre del Proyecto 1](#)
 
 
-### 🌟 [PetSnap]([https://github.com/DCandil/PetSnap.git])
+### 🌟 [PetSnap](https://github.com/DCandil/PetSnap.git)
 
 
 ---
