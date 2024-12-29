@@ -25,13 +25,15 @@
 
 
 ### 🌟 [PetSnap](https://github.com/DCandil/PetSnap.git)
-Se trata de una red social para amantes de las mascotas, un lugar diseñado para que los dueños puedan compartir fotos de sus fieles compañeros 🐶🐱.
+**PetSnap** es una red social para amantes de las mascotas, diseñada para que los dueños puedan compartir fotos y momentos especiales de sus fieles compañeros 🐶🐱.
 
-🛠️ Tecnologías utilizadas:
-✅ Node.js para construir el back-end.
-✅ Express como framework del servidor.
-✅ Bootstrap para un diseño atractivo y responsivo.
-✅ MySQL para gestionar los datos de forma eficiente.
+🛠️ **Tecnologías utilizadas**:
+- **Node.js**: Para construir un back-end robusto.
+- **Express**: Framework utilizado para gestionar el servidor.
+- **Bootstrap**: Diseño atractivo y responsivo.
+- **MySQL**: Base de datos para gestionar la información de manera eficiente.
+
+
 ---
 
 ## 💡 Mi Filosofía
