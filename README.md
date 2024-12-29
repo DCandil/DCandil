@@ -21,8 +21,13 @@
 
 ## 🚀 Mis Proyectos Destacados
 
-### 🌟 [Nombre del Proyecto 1](#)
+### 🌟 [Calculadora básica](https://github.com/DCandil/ProyectoCalculadora.git)
+Una calculadora sencilla pero funcional que permite realizar operaciones básicas como suma, resta, multiplicación y división. 🧮
 
+🔧 **Tecnologías empleadas**:
+- 📄 **HTML**: Para la estructura de la calculadora.
+- 🎨 **CSS + Bootstrap**: Para un diseño limpio, atractivo y responsivo.
+- ⚙️ **JavaScript**: Para la funcionalidad y lógica de las operaciones.
 
 ### 🌟 [PetSnap](https://github.com/DCandil/PetSnap.git)
 **PetSnap** es una red social para amantes de las mascotas, diseñada para que los dueños puedan compartir fotos y momentos especiales de sus fieles compañeros 🐶🐱.
