@@ -28,11 +28,10 @@
 **PetSnap** es una red social para amantes de las mascotas, diseñada para que los dueños puedan compartir fotos y momentos especiales de sus fieles compañeros 🐶🐱.
 
 🛠️ **Tecnologías utilizadas**:
-- **Node.js**: Para construir un back-end robusto.
-- **Express**: Framework utilizado para gestionar el servidor.
-- **Bootstrap**: Diseño atractivo y responsivo.
-- **MySQL**: Base de datos para gestionar la información de manera eficiente.
-
+- 🚀 **Node.js**: Para construir un back-end robusto.
+- 🌐 **Express**: Framework utilizado para gestionar el servidor.
+- 🎨 **Bootstrap**: Diseño atractivo y responsivo.
+- 🗄️ **MySQL**: Base de datos para gestionar la información de manera eficiente.
 
 ---
 
