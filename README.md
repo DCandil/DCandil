@@ -38,6 +38,14 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
 - 🎨 **Bootstrap**: Diseño atractivo y responsivo.
 - 🗄️ **MySQL**: Base de datos para gestionar la información de manera eficiente.
 
+
+### 🌟 [LinkedIn DVD Style](https://github.com/DCandil/LinkedInDVDStyle)
+**LinkedIn DVD Style** es un proyecto interactivo que simula el clásico efecto de rebote del logo de DVD en la pantalla. Todo el diseño y la animación están gestionados dentro de un único archivo HTML, con un comportamiento dinámico que cambia los colores del logo mientras rebota. 🎥✨
+
+🛠️ **Tecnologías utilizadas**:
+- 📄 **HTML**: Estructura, estilización y animación integradas en un solo archivo.
+- 🎮 **JavaScript**: Lógica para la animación y el comportamiento interactivo del logo.
+
 ---
 
 ## 💡 Mi Filosofía
