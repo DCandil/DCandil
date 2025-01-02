@@ -28,29 +28,11 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"/>
-  </span>
-</p>
-
-<p align="center">
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
-    <br/> MySQL
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
-    <br/> React
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" title="Express"/>
-    <br/> Express
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-    <br/> Python
-  </span>
-  <span style="display: inline-block;">
     <img src="https://img.icons8.com/ios/50/000000/blockchain.png" alt="Blockchain" title="Blockchain"/>
-    <br/> Blockchain
   </span>
 </p>
 
@@ -61,15 +43,8 @@
 <p align="center">
   <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/sass.png" alt="SASS" title="SASS"/>
-    <br/> SASS
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/flexbox.png" alt="Flexbox" title="Flexbox"/>
-    <br/> Flexbox
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
-    <br/> Bootstrap
   </span>
 </p>
 
@@ -80,19 +55,9 @@
 <p align="center">
   <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" title="GitHub"/>
-    <br/> GitHub
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/slack.png" alt="Slack" title="Slack"/>
-    <br/> Slack
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/microsoft-teams.png" alt="Teams" title="Teams"/>
-    <br/> Teams
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/discord-logo.png" alt="Discord" title="Discord"/>
-    <br/> Discord
   </span>
 </p>
 
