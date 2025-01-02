@@ -55,7 +55,7 @@
   <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" title="GitHub"/>
     <img src="https://img.icons8.com/ios/50/000000/slack.png" alt="Slack" title="Slack"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Microsoft_Teams_logo_2020.png" alt="Teams" title="Teams" width="50" height="50"/>
+    <img src="https://github.com/user-attachments/assets/8bbb067b-df19-498b-8c5f-76dc505f5f1b" alt="Teams" title="Teams" width="50" height="50"/>
     <img src="https://img.icons8.com/ios/50/000000/discord-logo.png" alt="Discord" title="Discord"/>
   </span>
 </p>
