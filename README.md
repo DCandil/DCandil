@@ -41,7 +41,7 @@
 
 <p align="center">
   <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://img.icons8.com/ios/50/000000/sass.png" alt="SASS" title="SASS"/>
+    <img src="https://github.com/user-attachments/assets/46900a5a-7de1-46ab-a749-72c65d82edc3" alt="SASS" title="SASS" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   </span>
@@ -53,10 +53,10 @@
 
 <p align="center">
   <span style="display: inline-block; margin-right: 20px;">
-    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" title="GitHub"/>
-    <img src="https://img.icons8.com/ios/50/000000/slack.png" alt="Slack" title="Slack"/>
+    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" title="GitHub" width="50" height="50"/>
+    <img src="https://github.com/user-attachments/assets/42b1e2a9-ff03-498c-a8e7-f0a69cb9eabb" alt="Slack" title="Slack" width="50" height="50"/>
     <img src="https://github.com/user-attachments/assets/8bbb067b-df19-498b-8c5f-76dc505f5f1b" alt="Teams" title="Teams" width="50" height="50"/>
-    <img src="https://img.icons8.com/ios/50/000000/discord-logo.png" alt="Discord" title="Discord"/>
+    <img src="https://github.com/user-attachments/assets/4f56de72-36ab-4199-b081-719426336a6a" alt="Discord" title="Discord" width="50" height="50"/>
   </span>
 </p>
 
