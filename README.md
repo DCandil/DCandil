@@ -25,16 +25,12 @@
   <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
     <br/> HTML5
-
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
     <br/> CSS3
-
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
     <br/> JavaScript
-
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
     <br/> TypeScript
-
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"/>
     <br/> NodeJS
   </span>
