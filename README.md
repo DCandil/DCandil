@@ -19,6 +19,38 @@
 
 ---
 
+## 🚀 Mi Tech Stack 👨‍💻
+
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript**
+- ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) **NodeJS**
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**
+- ![Express](https://img.icons8.com/ios/50/000000/express-js.png) **Express**
+- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
+- ![Blockchain](https://img.icons8.com/ios/50/000000/blockchain.png) **Blockchain**
+
+---
+
+## 🎨 Mi Layout Stack
+
+- ![SASS](https://img.icons8.com/ios/50/000000/sass.png) **SASS**: Preprocesador de CSS para crear estilos más estructurados y mantenibles.
+- ![Flexbox](https://img.icons8.com/ios/50/000000/flexbox.png) **Flexbox**: Método de diseño de CSS que facilita la creación de layouts responsivos.
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap**: Framework de diseño para una interfaz atractiva y responsiva.
+
+---
+
+## 🛠 Herramientas de Colaboración
+
+- ![GitHub](https://img.icons8.com/ios/50/000000/github.png) **GitHub**: Plataforma para gestionar proyectos de desarrollo colaborativo.
+- ![Slack](https://img.icons8.com/ios/50/000000/slack.png) **Slack**: Herramienta de comunicación para equipos de trabajo.
+- ![Teams](https://img.icons8.com/ios/50/000000/microsoft-teams.png) **Teams**: Plataforma de colaboración para reuniones y chat de equipos.
+- ![Discord](https://img.icons8.com/ios/50/000000/discord-logo.png) **Discord**: Plataforma de chat para equipos y comunidades.
+
+---
+
 ## 🚀 Mis Proyectos Destacados
 
 ### 🌟 [Calculadora básica](https://github.com/DCandil/ProyectoCalculadora.git)
@@ -38,7 +70,6 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
 - 🎨 **Bootstrap**: Diseño atractivo y responsivo.
 - 🗄️ **MySQL**: Base de datos para gestionar la información de manera eficiente.
 
-
 ### 🌟 [LinkedIn DVD Style](https://github.com/DCandil/LinkedInDVDStyle)
 **LinkedIn DVD Style** es un proyecto interactivo que simula el clásico efecto de rebote del logo de DVD en la pantalla. Todo el diseño y la animación están gestionados dentro de un único archivo HTML, con un comportamiento dinámico que cambia los colores del logo mientras rebota. 🎥✨
 
@@ -57,4 +88,3 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
 
 - 💌 **Email:** [davidcf18@gmail.com](mailto:davidcf18@gmail.com)
 - 💼 **LinkedIn:** [david-candil](https://linkedin.com/in/david-candil)
-
