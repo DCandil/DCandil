@@ -86,7 +86,7 @@
   </span>
 </p>
 
----
+----
 
 ## 🛠 Herramientas de Colaboración
 
