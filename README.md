@@ -24,7 +24,6 @@
 <p align="center">
   <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"/>
@@ -43,8 +42,8 @@
 <p align="center">
   <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/sass.png" alt="SASS" title="SASS"/>
-    <img src="https://img.icons8.com/ios/50/000000/flexbox.png" alt="Flexbox" title="Flexbox"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   </span>
 </p>
 
@@ -56,7 +55,7 @@
   <span style="display: inline-block; margin-right: 20px;">
     <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" title="GitHub"/>
     <img src="https://img.icons8.com/ios/50/000000/slack.png" alt="Slack" title="Slack"/>
-    <img src="https://img.icons8.com/ios/50/000000/microsoft-teams.png" alt="Teams" title="Teams"/>
+    <img src="https://github.com/user-attachments/assets/170762ab-f907-42ce-b00a-ef8d2755294b" alt="Teams" title="Teams"/>
     <img src="https://img.icons8.com/ios/50/000000/discord-logo.png" alt="Discord" title="Discord"/>
   </span>
 </p>
