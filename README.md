@@ -97,6 +97,11 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
 Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 - https://www.youtube.com/watch?v=lErzAkZYPxc
 
+<p>
+  <img src="https://github.com/user-attachments/assets/8e683190-822e-4a03-ba89-41e746998ffa" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/04bbaaac-a2c2-44e9-8644-b2a53938ec9b" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/32ac1797-b46f-4b04-a22f-bc92fef7c54f" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+</p>
 
 ---
 
@@ -109,8 +114,8 @@ Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 - 🎮 **JavaScript**: Lógica para la animación y el comportamiento interactivo del logo.
 
 <p>
-  <img src="![DvdScreen](https://github.com/user-attachments/assets/2b4159b1-243c-4688-9a17-655e3c4fd4f8)" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
-  <img src="![DvdScreen1](https://github.com/user-attachments/assets/8e3bba84-5978-4da2-87ed-9b879dcf54bb)" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/2b4159b1-243c-4688-9a17-655e3c4fd4f8" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/8e3bba84-5978-4da2-87ed-9b879dcf54bb" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
 </p>
 
 ---
