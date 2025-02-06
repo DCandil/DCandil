@@ -81,6 +81,10 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
   <img src="https://github.com/user-attachments/assets/6d146ec2-3093-404e-9d44-c5b057e100a4" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
 </p>
 
+
+---
+
+
 ### 🌟 [PetSnap](https://github.com/DCandil/PetSnap.git)
 **PetSnap** es una red social para amantes de las mascotas, diseñada para que los dueños puedan compartir fotos y momentos especiales de sus fieles compañeros 🐶🐱.
 
@@ -93,12 +97,21 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
 Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 - https://www.youtube.com/watch?v=lErzAkZYPxc
 
+
+---
+
+
 ### 🌟 [LinkedIn DVD Style](https://github.com/DCandil/LinkedInDVDStyle)
 **LinkedIn DVD Style** es un proyecto interactivo que simula el clásico efecto de rebote del logo de DVD en la pantalla. Todo el diseño y la animación están gestionados dentro de un único archivo HTML, con un comportamiento dinámico que cambia los colores del logo mientras rebota. 🎥✨
 
 🛠️ **Tecnologías utilizadas**:
 - 📄 **HTML**: Estructura, estilización y animación integradas en un solo archivo.
 - 🎮 **JavaScript**: Lógica para la animación y el comportamiento interactivo del logo.
+
+<p>
+  <img src="![DvdScreen](https://github.com/user-attachments/assets/2b4159b1-243c-4688-9a17-655e3c4fd4f8)" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="![DvdScreen1](https://github.com/user-attachments/assets/8e3bba84-5978-4da2-87ed-9b879dcf54bb)" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+</p>
 
 ---
 
