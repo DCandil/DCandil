@@ -1,21 +1,32 @@
 # 👋 ¡Hola! Soy David Candil
 
+<table>
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" 
+       alt="GIF divertido" 
+       width="400" 
+       style="border: 2px solid #f0f0f0; border-radius: 20px;"/>
+    </td>
+    <td>
+      <h2>Sobre mí 👩🏼‍💻</h2>
+      <ul>
+        <li>Desarrollador Jr Full Stack Web Developer.</li>
+        <li>🌱 Mi pasión por el aprendizaje continuo y las nuevas tecnologías me impulsó a buscar nuevas oportunidades en el desarrollo web.</li>
+        <li>👀 Soy apasionado por encontrar errores en el código y aprender continuamente nuevos lenguajes de programación.</li>
+        <li>💼 Estoy abierto a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.</li>
+        <li>📫 Puedes contactarme por correo electrónico: <a href="mailto:davidcf18@gmail.com">davidcf18@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" 
        alt="GIF divertido" 
        width="400" 
        style="border: 2px solid #f0f0f0; border-radius: 20px;"/>
 </p>
-
----
-
-## 🛠 Sobre mí
-
-- 🔭 Actualmente me estoy formando para ser desarrollador full-stack.
-- 🌱 Estoy aprendiendo **JavaScript** y **Python**, y trabajando con herramientas como **React** (biblioteca) y **Node.js** (entorno de ejecución).
-- 👀 Soy apasionado por encontrar errores en el código y aprender continuamente nuevos lenguajes de programación.
-- 💼 Estoy abierto a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.
-- 📫 Puedes contactarme por correo electrónico: [davidcf18@gmail.com](mailto:davidcf18@gmail.com)
 
 ---
 
@@ -31,7 +42,6 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
     <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" title="Express"/>
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-    <img src="https://img.icons8.com/ios/50/000000/blockchain.png" alt="Blockchain" title="Blockchain"/>
   </span>
 </p>
 
@@ -73,6 +83,11 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
 - 📄 **HTML**: Para la estructura de la calculadora.
 - 🎨 **CSS + Bootstrap**: Para un diseño limpio, atractivo y responsivo.
 - ⚙️ **JavaScript**: Para la funcionalidad y lógica de las operaciones.
+  
+![Portada](https://github.com/user-attachments/assets/f57c345b-8271-4e0b-8d8e-5370fa81a773)
+![Operacion](https://github.com/user-attachments/assets/6d146ec2-3093-404e-9d44-c5b057e100a4)
+
+  
 
 ### 🌟 [PetSnap](https://github.com/DCandil/PetSnap.git)
 **PetSnap** es una red social para amantes de las mascotas, diseñada para que los dueños puedan compartir fotos y momentos especiales de sus fieles compañeros 🐶🐱.
