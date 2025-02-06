@@ -9,11 +9,10 @@
        style="border: 2px solid #f0f0f0; border-radius: 20px;"/>
     </td>
     <td>
-      <h2>Sobre mí 👩🏼‍💻</h2>
+      <h2>Sobre mí </h2>
       <ul>
-        <li>Desarrollador Jr Full Stack Web Developer.</li>
+        <li>👨‍💻 Desarrollador Jr Full Stack Web Developer.</li>
         <li>🌱 Mi pasión por el aprendizaje continuo y las nuevas tecnologías me impulsó a buscar nuevas oportunidades en el desarrollo web.</li>
-        <li>👀 Soy apasionado por encontrar errores en el código y aprender continuamente nuevos lenguajes de programación.</li>
         <li>💼 Estoy abierto a trabajar en proyectos diversos, ya sea en desarrollo front-end o back-end.</li>
         <li>📫 Puedes contactarme por correo electrónico: <a href="mailto:davidcf18@gmail.com">davidcf18@gmail.com</a></li>
       </ul>
@@ -21,16 +20,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" 
-       alt="GIF divertido" 
-       width="400" 
-       style="border: 2px solid #f0f0f0; border-radius: 20px;"/>
-</p>
-
 ---
 
-## 🚀 Mi Tech Stack 👨‍💻
+## 🚀 Mi Tech Stack 
 
 <p align="center">
   <span style="display: inline-block; margin-right: 20px;">
@@ -83,11 +75,11 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
 - 📄 **HTML**: Para la estructura de la calculadora.
 - 🎨 **CSS + Bootstrap**: Para un diseño limpio, atractivo y responsivo.
 - ⚙️ **JavaScript**: Para la funcionalidad y lógica de las operaciones.
-  
-![Portada](https://github.com/user-attachments/assets/f57c345b-8271-4e0b-8d8e-5370fa81a773)
-![Operacion](https://github.com/user-attachments/assets/6d146ec2-3093-404e-9d44-c5b057e100a4)
 
-  
+<p>
+  <img src="https://github.com/user-attachments/assets/f57c345b-8271-4e0b-8d8e-5370fa81a773" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/6d146ec2-3093-404e-9d44-c5b057e100a4" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+</p>
 
 ### 🌟 [PetSnap](https://github.com/DCandil/PetSnap.git)
 **PetSnap** es una red social para amantes de las mascotas, diseñada para que los dueños puedan compartir fotos y momentos especiales de sus fieles compañeros 🐶🐱.
@@ -97,6 +89,9 @@ Una calculadora sencilla pero funcional que permite realizar operaciones básica
 - 🌐 **Express**: Framework utilizado para gestionar el servidor.
 - 🎨 **Bootstrap**: Diseño atractivo y responsivo.
 - 🗄️ **MySQL**: Base de datos para gestionar la información de manera eficiente.
+
+Si quieres ver un poco mas, te dejo un video explicandotelo todo:
+- https://www.youtube.com/watch?v=lErzAkZYPxc
 
 ### 🌟 [LinkedIn DVD Style](https://github.com/DCandil/LinkedInDVDStyle)
 **LinkedIn DVD Style** es un proyecto interactivo que simula el clásico efecto de rebote del logo de DVD en la pantalla. Todo el diseño y la animación están gestionados dentro de un único archivo HTML, con un comportamiento dinámico que cambia los colores del logo mientras rebota. 🎥✨
