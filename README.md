@@ -120,6 +120,7 @@ Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 ---
 
 ### 🌟 [Proyecto EcoAgroCorral](https://github.com/DCandil/ProyectoEcoAgroCorral)
+Proyecto final que realizamos con la empresa EcoAgroCorral, donde le cambiamos la interfaz completa de su página web para un uso más dinámico e intuitivo y una mejora en la experiencia de usuario. Si quieres saber más sobre el proyecto, te lo explicamos en el enlace del video de youtube.
 
 🛠️ **Tecnologías utilizadas**:
 
@@ -149,6 +150,33 @@ Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 
 
 ---
+
+
+### 🌟 [Proyecto Pixar](https://github.com/AmalioGs/Pixar)
+Pixar es una aplicación web que permite a los usuarios explorar y visualizar información sobre las películas de Pixar. En este proyecto, los usuarios pueden acceder a detalles de las películas, personajes, y mucho más, todo con un diseño atractivo y una navegación sencilla. 🎬✨
+
+🛠️ **Tecnologías utilizadas**:
+
+#### Backend
+- 🚀 **Node.js + Express.js**: Para crear un servidor robusto y eficiente.
+- 🔑 **JSON Web Token (JWT)** → Autenticación segura y manejo de sesiones de usuario.
+- 📄 **HTML + CSS**: Para la estructuración y estilo de las páginas.
+
+#### Frontend
+- 🎨 **Bootstrap**: Diseño responsivo y adaptable a dispositivos móviles y escritorio.
+- 📡 **Axios**: Para consumir APIs externas y obtener datos dinámicos sobre las películas.
+
+#### Base de datos
+- 🗄️ **MySQL**: Base de datos para almacenar la información sobre las películas, personajes, y más.
+  
+<p>
+  <img src="https://github.com/user-attachments/assets/92934fe6-ef88-432f-b4e7-bf5aaa1c03d2" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/d0b9d96c-7f23-4d59-9adb-9f12cf16b1f6" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+</p>
+
+
+---
+
 
 ## 💡 Mi Filosofía
 > _"La programación no es solo resolver problemas, es aprender cómo mejorar el mundo línea por línea."_ ✨
