@@ -63,7 +63,6 @@
 </p>
 
 
-
 ---
 
 ## 🚀 Mis Proyectos Destacados
@@ -116,8 +115,40 @@ Si quieres ver un poco mas, te dejo un video explicandotelo todo:
 <p>
   <img src="https://github.com/user-attachments/assets/2b4159b1-243c-4688-9a17-655e3c4fd4f8" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
   <img src="https://github.com/user-attachments/assets/8e3bba84-5978-4da2-87ed-9b879dcf54bb" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
-</p>
 
+
+---
+
+### 🌟 [Proyecto EcoAgroCorral](https://github.com/DCandil/ProyectoEcoAgroCorral)
+
+🛠️ **Tecnologías utilizadas**:
+
+#### Backend
+- 🚀 **Node.js + Express.js** → Construcción de un backend escalable y optimizado para manejo de solicitudes.
+- 💳 **Stripe API** → Implementación de la pasarela de pagos en el backend, gestionando transacciones seguras y eficientes.
+- 🔑 **JSON Web Token (JWT)** → Autenticación segura y manejo de sesiones de usuario.
+- 🔒 **Bcrypt** → Encriptación de contraseñas para proteger la seguridad de los usuarios.
+
+#### Frontend
+- ⚛️ **React.js** → Creación de una interfaz dinámica y modular.
+- 🎨 **Bootstrap** → Diseño responsivo y adaptable a dispositivos móviles y escritorio.
+- 🛡️ **Zod** → Validación de formularios en el frontend para asegurar que los datos ingresados sean correctos y estén bien formateados.
+
+#### Base de datos
+- 🗄️ **MySQL** → Sistema de gestión de bases de datos relacional utilizado para almacenar los datos de los usuarios, experiencias, rutas y transacciones de reservas.
+
+<p>
+  <img src="https://github.com/user-attachments/assets/92934fe6-ef88-432f-b4e7-bf5aaa1c03d2" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/b0bb9014-8b85-4d10-a751-96beaa125aeb" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/c5e025a6-69a8-4d4d-9fa8-9046f8c66989" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/d0b9d96c-7f23-4d59-9adb-9f12cf16b1f6" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/b8aaea00-9ceb-46b2-8bf5-6ef5f51f6408" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/94b8e184-cc48-4ff8-a6a2-f22bb9fbb18d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/01509069-b2e2-4ab9-be77-4db2a354f1df" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/5ed7c088-8667-4f99-8750-062bb03f3a71" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/881cb4b9-850b-4163-8369-fc9305acc22d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/091e911b-0ae6-4a6a-998c-a0c5d444d1e3" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+</p>
 ---
 
 ## 💡 Mi Filosofía
