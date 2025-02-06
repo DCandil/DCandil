@@ -170,10 +170,10 @@ Pixar es una aplicación web que permite a los usuarios explorar y visualizar in
 - 🗄️ **MySQL**: Base de datos para almacenar la información sobre las películas, personajes, y más.
   
 <p>
-  <img src="https://github.com/user-attachments/assets/92934fe6-ef88-432f-b4e7-bf5aaa1c03d2" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/d0b9d96c-7f23-4d59-9adb-9f12cf16b1f6" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/56a62bed-993a-4518-9b7f-2639c1ca1029" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/f1e44b2b-9975-4415-ab58-bec18df57b0b" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/bb5b67bb-9d67-4d5d-80d5-37d1d2049967" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
 </p>
-
 
 ---
 
