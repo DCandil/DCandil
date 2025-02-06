@@ -149,6 +149,8 @@ Si quieres ver un poco mas, te dejo un video explicandotelo todo:
   <img src="https://github.com/user-attachments/assets/881cb4b9-850b-4163-8369-fc9305acc22d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
   <img src="https://github.com/user-attachments/assets/091e911b-0ae6-4a6a-998c-a0c5d444d1e3" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
 </p>
+
+
 ---
 
 ## 💡 Mi Filosofía
