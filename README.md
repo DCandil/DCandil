@@ -138,6 +138,11 @@ Proyecto final que realizamos con la empresa EcoAgroCorral, donde le cambiamos l
 #### Base de datos
 - 🗄️ **MySQL** → Sistema de gestión de bases de datos relacional utilizado para almacenar los datos de los usuarios, experiencias, rutas y transacciones de reservas.
 
+#### Video explicativo:
+- Video completo: https://www.youtube.com/watch?v=qkkCO6usVsU
+- Primera participación: https://www.youtube.com/watch?v=qkkCO6usVsU&t=494s
+- Segunda participación: https://www.youtube.com/watch?v=qkkCO6usVsU&t=1773s
+
 <p>
   <img src="https://github.com/user-attachments/assets/92934fe6-ef88-432f-b4e7-bf5aaa1c03d2" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
   <img src="https://github.com/user-attachments/assets/d0b9d96c-7f23-4d59-9adb-9f12cf16b1f6" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;"/>
