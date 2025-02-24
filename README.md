@@ -33,7 +33,7 @@
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
     <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" title="Express"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+    <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="Angular" title="Angular"/>
   </span>
 </p>
 
