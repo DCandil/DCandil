@@ -182,6 +182,43 @@ Pixar es una aplicación web que permite a los usuarios explorar y visualizar in
 
 ---
 
+### 🌟 [DevTree](https://davidev-devtree.netlify.app)
+DevTree es una herramienta inspirada en LinkTree, diseñada especialmente para desarrolladores. Permite crear un perfil personal donde compartir enlaces relevantes como tu GitHub, LinkedIn, YouTube u otra red social, desde un único lugar. 🌐🌳
+
+🛠️ **Tecnologías utilizadas**:
+
+#### - Lenguaje: TypeScript
+#### - Base de datos: MongoDB
+#### - Deploy: Netlify (frontend), Render (backend)
+
+#### Backend
+- 🚀 **Node.js**: Plataforma para el desarrollo del servidor.
+- ✨ **TypeScript**: Tipado estático para mejorar la mantenibilidad y escalabilidad del código.
+- 🌐 **Express.js**: Framework para gestionar rutas y peticiones HTTP.
+- 🔐 **JWT (jsonwebtoken)**: Autenticación basada en tokens.
+- 🔐 **bcrypt**: Encriptación segura de contraseñas.
+- 🌍 **CORS**: Configuración para permitir peticiones entre dominios.
+- ☁️ **Cloudinary**: Almacenamiento y gestión de imágenes.
+- ⚙️ **dotenv**: Gestión de variables de entorno.
+- 🧪 **express-validator**: Validación de datos del lado del servidor.
+
+#### Frontend
+- ⚛️ **React.js** → Creación de una interfaz moderna, dinámica y modular.
+- 🎨 **Tailwind CSS** → Estilizado responsive y limpio.
+- 🧭 **React Router DOM** → Navegación fluida entre páginas dentro de la SPA.
+
+<p> 
+  <img src="https://github.com/user-attachments/assets/a46610f0-133e-4fb7-b346-f344a255b066" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
+  <img src="https://github.com/user-attachments/assets/fef951aa-1d50-4f74-931d-62f8320e6e1a" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
+  <img src="https://github.com/user-attachments/assets/e9d8e202-5235-4f28-bc10-c5321df2cc9d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
+  <img src="https://github.com/user-attachments/assets/4b3b61b8-ac47-494e-8ed1-fbd51597c83d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
+</p>
+
+🔗 Enlaces del proyecto:
+
+[https://devtree.netlify.app](https://davidev-devtree.netlify.app)
+
+---
 
 ## 💡 Mi Filosofía
 > _"La programación no es solo resolver problemas, es aprender cómo mejorar el mundo línea por línea."_ ✨
