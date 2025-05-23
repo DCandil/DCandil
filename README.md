@@ -208,10 +208,12 @@ DevTree es una herramienta inspirada en LinkTree, diseñada especialmente para d
 - 🧭 **React Router DOM** → Navegación fluida entre páginas dentro de la SPA.
 
 <p> 
-  <img src="https://github.com/user-attachments/assets/a46610f0-133e-4fb7-b346-f344a255b066" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
-  <img src="https://github.com/user-attachments/assets/fef951aa-1d50-4f74-931d-62f8320e6e1a" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
-  <img src="https://github.com/user-attachments/assets/e9d8e202-5235-4f28-bc10-c5321df2cc9d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
-  <img src="https://github.com/user-attachments/assets/4b3b61b8-ac47-494e-8ed1-fbd51597c83d" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
+  <img src="https://github.com/user-attachments/assets/e2fa8b6f-ae5b-4c2f-8430-4e57f3469df1" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
+  <img src="https://github.com/user-attachments/assets/a756d05f-d1da-4a0f-ac81-e6dc341b5e1c" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
+  <img src="https://github.com/user-attachments/assets/d8c55f4c-7942-4b69-9202-afde570a5b18" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
+  <img src="https://github.com/user-attachments/assets/1937c28d-41d3-4c31-abd9-27c52076d923" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/d3cd6241-d549-40ea-a1d2-199c9dd7302a" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/995a1f61-1e3a-4fde-a9ff-b410342e03b4" width="200" style="border: 2px solid #f0f0f0; border-radius: 10px;" /> 
 </p>
 
 🔗 Enlaces del proyecto:
